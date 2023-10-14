@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-14T18:48:35.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ppv5HrAl4aoVMv0W-xk_" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-14T19:31:20.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="oCjBpyj8Utrng6FTnrFd" version="22.0.4" type="github">
   <diagram name="Страница — 1" id="3yZ1Bi49j6QtE4vH_W0a">
     <mxGraphModel dx="2074" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -347,7 +347,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EkAOqBTmNJ8UoRvNRDtU-102" value="Genre" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="70" width="180" height="120" as="geometry">
+          <mxGeometry x="950" y="190" width="180" height="120" as="geometry">
             <mxRectangle x="490" y="40" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -448,7 +448,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EkAOqBTmNJ8UoRvNRDtU-125" value="Podcast" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="70" width="180" height="120" as="geometry">
+          <mxGeometry x="730" y="190" width="180" height="120" as="geometry">
             <mxRectangle x="240" y="30" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
