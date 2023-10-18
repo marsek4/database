@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T18:15:32.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="uW-NLeRu1Kc6HOeE-F1E" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T18:19:38.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="qM29K8drRJqqtB8HOU-K" version="22.0.4" type="github">
   <diagram name="Страница — 1" id="9qEKDwKPV7qB_pQZ9DD6">
-    <mxGraphModel dx="1994" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Mvah9nxCd4XhdKy06r9K-1" value="Person" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="100" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mvah9nxCd4XhdKy06r9K-2" value="Person_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mvah9nxCd4XhdKy06r9K-2" value="Person id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="20" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mvah9nxCd4XhdKy06r9K-3" value="ФИО" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mvah9nxCd4XhdKy06r9K-3" value="Full&lt;br&gt;name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="24" y="20" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvah9nxCd4XhdKy06r9K-4" value="Phone number" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -93,7 +93,7 @@
         <mxCell id="Mvah9nxCd4XhdKy06r9K-23" value="Song" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="520" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mvah9nxCd4XhdKy06r9K-24" value="Song_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mvah9nxCd4XhdKy06r9K-24" value="Song id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="47" y="520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvah9nxCd4XhdKy06r9K-25" value="Song&lt;br&gt;name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -105,16 +105,16 @@
         <mxCell id="Mvah9nxCd4XhdKy06r9K-27" value="Lyrics" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="47" y="700" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mvah9nxCd4XhdKy06r9K-28" value="Is_podcast" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mvah9nxCd4XhdKy06r9K-28" value="Is podcast" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="47" y="760" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mvah9nxCd4XhdKy06r9K-29" value="Album_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mvah9nxCd4XhdKy06r9K-29" value="Album id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="47" y="820" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mvah9nxCd4XhdKy06r9K-30" value="Artist_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mvah9nxCd4XhdKy06r9K-30" value="Artist id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="47" y="880" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mvah9nxCd4XhdKy06r9K-31" value="Genre_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mvah9nxCd4XhdKy06r9K-31" value="Genre id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="47" y="940" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvah9nxCd4XhdKy06r9K-32" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mvah9nxCd4XhdKy06r9K-24" target="Mvah9nxCd4XhdKy06r9K-31">
@@ -207,7 +207,7 @@
             <mxPoint x="410" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mvah9nxCd4XhdKy06r9K-49" value="Genre_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mvah9nxCd4XhdKy06r9K-49" value="Genre id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvah9nxCd4XhdKy06r9K-50" value="Genre&lt;br&gt;name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -252,10 +252,10 @@
         <mxCell id="Mvah9nxCd4XhdKy06r9K-61" value="Number of&lt;br&gt;auditions" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="660" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mvah9nxCd4XhdKy06r9K-62" value="Image_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mvah9nxCd4XhdKy06r9K-62" value="Image id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="720" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mvah9nxCd4XhdKy06r9K-63" value="Artist_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mvah9nxCd4XhdKy06r9K-63" value="Artist id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="780" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvah9nxCd4XhdKy06r9K-64" value="Artist&lt;br&gt;name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -313,10 +313,10 @@
         <mxCell id="Mvah9nxCd4XhdKy06r9K-75" value="Album&lt;br&gt;name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mvah9nxCd4XhdKy06r9K-76" value="Image_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mvah9nxCd4XhdKy06r9K-76" value="Image id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="180" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mvah9nxCd4XhdKy06r9K-78" value="Artist_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mvah9nxCd4XhdKy06r9K-78" value="Artist id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="300" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvah9nxCd4XhdKy06r9K-79" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mvah9nxCd4XhdKy06r9K-78">
@@ -371,7 +371,7 @@
             <mxPoint x="510" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mvah9nxCd4XhdKy06r9K-88" value="Playlist_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mvah9nxCd4XhdKy06r9K-88" value="Playlist id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="47" y="300" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvah9nxCd4XhdKy06r9K-89" value="Image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -477,8 +477,20 @@
         <mxCell id="Mvah9nxCd4XhdKy06r9K-123" value="1, 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="550" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mvah9nxCd4XhdKy06r9K-124" value="1, N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Mvah9nxCd4XhdKy06r9K-124" value="0, N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mvah9nxCd4XhdKy06r9K-125" value="Drop&lt;br&gt;date" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="60" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mvah9nxCd4XhdKy06r9K-126" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Mvah9nxCd4XhdKy06r9K-125">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="140" as="sourcePoint" />
+            <mxPoint x="640" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="80" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
