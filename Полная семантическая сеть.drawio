@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-08T19:16:47.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="jbS66A4STo7siMv9V3Sy" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T13:30:12.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="aP4csjmSGM1TXGUTIwHf" version="24.5.2" type="github">
   <diagram name="Страница — 1" id="7VjMfyYCBIDdphOzAkVa">
-    <mxGraphModel dx="1430" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,13 +146,13 @@
         <mxCell id="uwNGHSq0tU3w2gHXwkrc-42" value="a2" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="uwNGHSq0tU3w2gHXwkrc-41" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uwNGHSq0tU3w2gHXwkrc-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="uwNGHSq0tU3w2gHXwkrc-9" target="uwNGHSq0tU3w2gHXwkrc-121" edge="1">
+        <mxCell id="uwNGHSq0tU3w2gHXwkrc-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uwNGHSq0tU3w2gHXwkrc-121" target="uwNGHSq0tU3w2gHXwkrc-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="206" as="sourcePoint" />
-            <mxPoint x="230" y="160" as="targetPoint" />
+            <mxPoint x="310" y="140" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="230" y="100" />
               <mxPoint x="310" y="100" />
+              <mxPoint x="230" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
